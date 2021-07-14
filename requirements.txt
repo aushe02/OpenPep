@@ -1,0 +1,11 @@
+matplotlib
+numpy
+PyQt5
+PyQt5-sip
+python-dateutil
+dependency-injector
+appdirs
+PyYAML
+pyqt-distutils
+openpyxl
+PyQt5-stubs

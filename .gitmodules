@@ -1,0 +1,3 @@
+[submodule "OpenPepEngine"]
+	path = OpenPepEngine
+	url = https://github.com/aushe02/OpenPepEngine.git
